@@ -3,11 +3,19 @@
 This project runs a React based interface and will be the foundation for tracking my strength gains in the main compound movements: Deadlift, Squat, and Bench Press.
 
 ## Current PR Numbers
-Bold is current, italics are 2022 year end goals
+
 <ul>
-    <li>Deadlit:     **345lbs**  *385lbs*</li>
-    <li>Squat:       **380lbs**  *405lbs*</li>
-    <li>Bench Press: **210lbs**  *235lbs*</li>
+    <li>Deadlit: 345lbs</li>
+    <li>Squat: 380lbs</li>
+    <li>Bench Press: 210lbs</li>
+</ul>
+
+### 2022 Year end goals
+
+<ul>
+    <li>Deadlit: 385lbs</li>
+    <li>Squat: 405lbs</li>
+    <li>Bench Press: 245lbs</li>
 </ul>
 
 ## Available Scripts
