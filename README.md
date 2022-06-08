@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Strength Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project runs a React based interface and will be the foundation for tracking my strength gains in the main compound movements: Deadlift, Squat, and Bench Press.
+
+## Current PR Numbers
+Bold is current, italics are 2022 year end goals
+<ul>
+    <li>Deadlit:     **345lbs**  *385lbs*</li>
+    <li>Squat:       **380lbs**  *405lbs*</li>
+    <li>Bench Press: **210lbs**  *235lbs*</li>
+</ul>
 
 ## Available Scripts
 
