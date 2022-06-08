@@ -18,7 +18,7 @@ This project runs a React based interface and will be the foundation for trackin
     <li>Bench Press: 245lbs</li>
 </ul>
 
-## Available Scripts
+## Place Holder
 
 In the project directory, you can run:
 
