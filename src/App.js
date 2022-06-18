@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import React, { useState } from 'react';
 import './App.css';
 
@@ -8,9 +7,9 @@ import Gallery from './components/Gallery';
 
 function App() {
   const [categories] = useState([
-    { name: "squat", description: "Collection of my squat PR progession" },
-    { name: "deadlift", description: "Collection of my deadlift PR progression" },
-    { name: "bench", description: "Collection of my bench press PR progression" },
+    { name: "portraits", description: "Collection of my squat PR progession" },
+    { name: "food", description: "Collection of my deadlift PR progression" },
+    { name: "landscape", description: "Collection of my bench press PR progression" },
   ]);
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
 
@@ -22,7 +21,7 @@ function App() {
         currentCategory={currentCategory}
       ></Nav>
       <main>
-        <Gallery></Gallery>
+        <Gallery currentCategory={currentCategory}></Gallery>
         <About></About>
       </main>
     </div>
